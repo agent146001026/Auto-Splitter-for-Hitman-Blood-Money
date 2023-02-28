@@ -1,7 +1,7 @@
 # Auto-Splitter-for-Hitman-Blood-Money
-Auto Splitter for Hitman Blood Money Steam Version which starts, splits and resets the Livesplit timer.
+Auto Splitter for Hitman Blood Money Steam Version which starts, splits and resets in Livesplit.
 
-This is my updated livesplit Auto Splitter for Hitman Blood Money Steam version. It reads the game memory and automatically starts, splits and resets the livesplit timer. 
+This is my updated Livesplit Auto Splitter for Hitman Blood Money Steam version. It reads the game memory and automatically starts, splits and resets in Livesplit. 
 It also removes for time without loads time spent during loading times.
 
 The issues have been fixed where the timer didn’t start automatically in A Vintage Year sometimes and the auto Reset option was not available (greyed out).
