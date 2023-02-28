@@ -14,7 +14,7 @@ Now the timer always start automatically in A Vintage Year and the auto Reset wo
 2.	In the Livesplit settings switch Refresh Rate (Hz) of the timer to at least 60 HZ.
 3.	In the Auto Splitter Settings there is 120 Hz Refresh Rate option which gives you more accurate splits. It’s enabled by default because it makes sure the memory values of the game have been read fast enough for the Auto Splitter to work properly.
 
-# Setting up the autosplitter in Livesplit ? 
+# Setting up the autosplitter in Livesplit
 
 1. Download the ASL file. 
 2. Open Livesplit.
